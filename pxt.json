@@ -1,0 +1,15 @@
+{
+    "name": "my-sensor",
+    "description": "Custom sensor extension for micro:bit",
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true,
+    "dependencies": {
+        "core": "*"
+    },
+    "testFiles": [
+        "test.ts"
+    ]
+}
