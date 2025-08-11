@@ -76,7 +76,7 @@ namespace mySensor {
     /**
      * Check if sensor is ready
      */
-    //% block="sensor is ready"
+    //% block="sensor is ready?"
     //% weight=70
     //% group="Basic"
     export function isReady(): boolean {
